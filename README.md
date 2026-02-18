@@ -1,0 +1,3 @@
+# AAB Next.js SaaS Dashboard UI
+
+Initializing project structure...
